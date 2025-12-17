@@ -1,0 +1,24 @@
+0	track_name
+1	artist(s)_name
+2	number_of_artists
+3	released_year
+4	released_month
+5	released_day
+6	in_spotify_playlists
+7	in_spotify_charts
+8	streams (in millions)
+9	in_apple_playlists
+10	in_apple_charts
+11	in_deezer_playlists
+12	in_deezer_charts
+13	in_shazam_charts
+14	bpm
+15	key
+16	mode
+17	danceability_%
+18	valence_%
+19	energy_%
+20	acousticness_%
+21	instrumentalness_%
+22	liveness_%
+23	speechiness_%
